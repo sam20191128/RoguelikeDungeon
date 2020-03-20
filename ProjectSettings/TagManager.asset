@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Weapon
+  - Item
+  - WeaponPosition
+  - Weapon_Axe
+  - BuffPosition
+  - Buff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Room
+  - Wall
+  - Door
+  - Player
+  - WhiteWall
+  - PlayerRed
+  - Weapon
+  - Item
+  - Buff
+  - Post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3439858631
+    locked: 0
+  - name: Door
+    uniqueID: 3640096255
+    locked: 0
+  - name: Item
+    uniqueID: 3845041459
+    locked: 0
+  - name: Player
+    uniqueID: 761925543
+    locked: 0
+  - name: Enemy
+    uniqueID: 3886555879
+    locked: 0
+  - name: Weapon
+    uniqueID: 547927331
+    locked: 0
